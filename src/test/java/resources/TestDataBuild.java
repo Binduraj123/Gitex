@@ -1,4 +1,4 @@
-package resources;
+/package resources;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -43,6 +43,10 @@ public class TestDataBuild {
 		System.out.println("peanut");
 		System.out.println("like it");
 		System.out.println("dam good");
+		System.out.println("commit");
+		System.out.println("update");
+		System.out.println("lastgood");
+		
 	}
 }
 
