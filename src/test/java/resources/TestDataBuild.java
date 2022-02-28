@@ -58,6 +58,13 @@ public class TestDataBuild {
 		
 		
 	}
+	public void superClass33() {
+
+		System.out.println("no");
+		System.out.println(" git");
+		
+		
+	}
 }
 
 
