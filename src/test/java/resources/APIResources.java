@@ -16,6 +16,10 @@ public enum APIResources {
 	{
 		return resource;
 	}
+	public void Github()
+	{
+		System.out.println("i am new to Github");
+	}
 	
 
 }

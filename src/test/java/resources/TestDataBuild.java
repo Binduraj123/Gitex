@@ -1,4 +1,4 @@
-/package resources;
+package resources;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -48,7 +48,20 @@ public class TestDataBuild {
 		System.out.println("lastgood");
 		
 	}
+	
+	
+
+	public void superClass2() {
+
+		System.out.println("bb");
+		System.out.println(" it");
+		
+		
+	}
 }
+
+
+
 
 
 
